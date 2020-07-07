@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "329243698290",
+    "firebase_url": "https://meuappfirebase-a6497.firebaseio.com",
+    "project_id": "meuappfirebase-a6497",
+    "storage_bucket": "meuappfirebase-a6497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329243698290:android:b98c33296b080e7a",
+        "android_client_info": {
+          "package_name": "br.net.codedrops.AppFireBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329243698290-7ausp7uk3dvrodv5n4q25sv34marj27f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "329243698290-7ausp7uk3dvrodv5n4q25sv34marj27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVeabg1G3HbCcdYXPmGAsJ4kw56hVKtvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
